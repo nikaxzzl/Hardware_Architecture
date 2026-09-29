@@ -5,7 +5,6 @@ C = 4
 print("№1 | №2 | №3 |")
 print("-" *14)
 
-
 exercise1 = (not(A & B)) | (not(A | C))
 exercise2 = (A & B) | ((not(B)) & C)
 exercise3 = (A & B) | (not(C))
