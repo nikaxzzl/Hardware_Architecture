@@ -1,17 +1,21 @@
 ## Задача 1. Включение аппаратной виртуализации (Intel VT-x / AMD-V)
-![Config → CPU. Опция Intel Virtualization Technology](screen/01.png)
-![Security → Virtualization](screen/02.png)
-
+![](screen/01.png)
+Config → CPU. Опция Intel Virtualization Technology
+![](screen/02.png)
+Security → Virtualization
 ## Задача 2. Проверка статуса TPM и его связь с BitLocker
-![Security → Security Chip](screen/03.png)
+![](screen/03.png)
+Security → Security Chip
 
 ## Задача 3. Настройка поведения при потере питания (After Power Loss)
 ![](screen/04.png)
 По умолчанию стоит Off.
 
 ## Задача 4. Отключение Secure Boot и проверка последствий
-![Security → Secure Boot. Secure Boot (Off)](screen/05.png)
-![Security → Secure Boot. Secure Boot (On)](screen/06.png)
+![](screen/05.png)
+Security → Secure Boot. Secure Boot (Off)
+![](screen/06.png)
+Security → Secure Boot. Secure Boot (On)
 
 ## Задача 5. Настройка порядка загрузки через Fast Boot
 ![](screen/07.png)
@@ -28,8 +32,9 @@
 В журнале BIOS обычно фиксируются ошибки при запуске компьютера (POST), замене деталей или настроек, при попытке ввести неверный пароль.
 
 ## Задача 9. Восстановление заводских настроек с сохранением пользовательских данных
-![Restart → Load Factory Defaults](screen/11.png)
-![Security → Reset System to Factory Defaults](screen/12.png)
-
+![](screen/11.png)
+Restart → Load Factory Defaults
+![](screen/12.png)
+Security → Reset System to Factory Defaults
 ## Задача 10. Полный сценарий: подготовка нового сотрудника (IT-администратор)
 ![](screen/14.png)
